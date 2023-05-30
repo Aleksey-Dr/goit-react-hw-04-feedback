@@ -1,6 +1,7 @@
 import Section from './section';
 import FeedbackOptions from './feedbackOptions';
 import Statistics from './statistics';
+import Notification from './notification';
 
 export const App = () => {
   return (
@@ -23,6 +24,9 @@ export const App = () => {
           bad={'bad'}
           total={'countTotalFeedback'}
           percentage={'countPositiveFeedbackPercentage'}
+        />
+        <Notification
+          notification={'No feedback given'}
         />
       </Section>
     </div>

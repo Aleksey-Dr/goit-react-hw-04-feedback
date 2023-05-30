@@ -35,3 +35,10 @@ VI. Created <Statistics>
 2. Created index.js.
 3. Added "import Statistics from './statistics';" to App.jsx.
 4. Added <Statistics> to the <App>.
+
+VII. Created <Notification>
+1. Created Notification.jsx.
+2. Created index.js.
+3. Added "import Notification from './notification';" to App.jsx.
+4. Added <Notification> to the <App>.
+5. Created Notification.module.css.
