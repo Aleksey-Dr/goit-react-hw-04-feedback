@@ -1,0 +1,40 @@
+.feedback-btns button {
+    width: 70px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: aliceblue;
+    cursor: pointer;
+}
+
+.feedback-btns button:not(:last-child) {
+    margin-right: 18px;
+    transition: transform 100ms linear;
+}
+
+.feedback-btns button:nth-child(1) {
+    background-color: rgb(176, 235, 174);
+}
+
+.feedback-btns button:nth-child(1):hover {
+    background-color: rgb(94, 235, 89);
+    transform: scale(1.1);
+}
+
+.feedback-btns button:nth-child(2) {
+    background-color: rgb(235, 235, 174);
+}
+
+.feedback-btns button:nth-child(2):hover {
+    background-color: rgb(255, 255, 0);
+    transform: scale(1.1);
+}
+
+.feedback-btns button:nth-child(3) {
+    background-color: rgb(235, 184, 174);
+    transition: transform 100ms linear;
+}
+
+.feedback-btns button:nth-child(3):hover {
+    background-color: rgb(231, 112, 88);
+    transform: scale(1.1);
+}

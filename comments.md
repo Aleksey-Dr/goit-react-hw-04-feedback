@@ -22,3 +22,10 @@ IV. Created <Section>
 2. Created index.js.
 3. Added "import Section from './section';" to App.jsx.
 4. Added <Section> to the <App>.
+
+V. Created <FeedbackOptions>
+1. Created feedbackOptions.jsx.
+2. Created index.js.
+3. Added "import FeedbackOptions from './feedbackOptions';" to App.jsx.
+4. Added <FeedbackOptions> to the <App>.
+5. Created FeedbackOptions.module.css.
