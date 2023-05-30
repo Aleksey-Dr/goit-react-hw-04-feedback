@@ -42,3 +42,9 @@ VII. Created <Notification>
 3. Added "import Notification from './notification';" to App.jsx.
 4. Added <Notification> to the <App>.
 5. Created Notification.module.css.
+
+VIII. Change the <App>
+1. Added "useState".
+2. Added function "addFeedback".
+3. Added function "countTotalFeedback".
+4. Added function "countPositiveFeedbackPercentage".
