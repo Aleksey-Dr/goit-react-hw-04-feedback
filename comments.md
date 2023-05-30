@@ -29,3 +29,9 @@ V. Created <FeedbackOptions>
 3. Added "import FeedbackOptions from './feedbackOptions';" to App.jsx.
 4. Added <FeedbackOptions> to the <App>.
 5. Created FeedbackOptions.module.css.
+
+VI. Created <Statistics>
+1. Created Statistics.jsx.
+2. Created index.js.
+3. Added "import Statistics from './statistics';" to App.jsx.
+4. Added <Statistics> to the <App>.
